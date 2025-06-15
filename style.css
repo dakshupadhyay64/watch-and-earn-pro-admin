@@ -1,0 +1,26 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #111;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+.login-container, .dashboard-container {
+    max-width: 400px;
+    margin: 100px auto;
+    text-align: center;
+}
+input, button {
+    display: block;
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+}
+button {
+    background-color: #00c853;
+    color: white;
+    font-weight: bold;
+}
